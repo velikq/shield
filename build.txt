@@ -1,0 +1,1 @@
+west build -b nice_nano -- -DSHIELD=my_board
